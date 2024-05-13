@@ -10,7 +10,7 @@ The diagram below illustrates what it is that you will need to build. In simple 
 
 ## Sequence
 
-1. Read these instrucitons carefully.
+1. Read these instructions carefully.
 2. Develop a simple API (see [Evaluation Details](#-Evaluation-details))
 3. Publish your code to a source repository that we can access
 4. Provide us with a link to this code at least a day before you come to see us
