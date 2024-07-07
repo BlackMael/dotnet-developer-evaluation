@@ -1,0 +1,6 @@
+@OpenPoly.API.Service_HostAddress = http://localhost:5125
+
+GET {{OpenPoly.API.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
